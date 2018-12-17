@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/detailPages', function() {
+            var comp = module.exports=webpackJsonp([5],{241:function(e,t,l){e.exports=l(242)},242:function(e,t,l){"use strict";function o(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var r=l(15),u=o(r),n=l(6),f=o(n),a=l(1),d=o(a),c=l(2),i=o(c),s=l(7),p=o(s),y=l(8),_=o(y),S=l(0),v=o(S),b=l(121),m=(o(b),l(127)),x=o(m),g=function(e){function t(){return(0,d.default)(this,t),(0,p.default)(this,(t.__proto__||(0,f.default)(t)).apply(this,arguments))}return(0,_.default)(t,e),(0,i.default)(t,[{key:"render",value:function(){var e={hintStyle:{color:"gray"},floatingLabelStyle:{color:"#e488ef"},floatingLabelFocusStyle:{color:"#e488ef"},underlineStyle:{color:"#fff"},underlineFocusStyle:{borderColor:"#e488ef"},inputStyle:{color:"#fff"},textareaStyle:{color:"#fff"},style:{marginTop:"10px"}};return v.default.createElement("div",null,v.default.createElement(x.default,(0,u.default)({value:"text"},e)))}}]),t}(S.Component);t.default=g}},[241]);
+            return { page: comp.default }
+          })
+        
