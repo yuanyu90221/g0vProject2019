@@ -1,0 +1,6 @@
+
+          window.__NEXT_REGISTER_PAGE('/detailPages', function() {
+            var comp = module.exports=webpackJsonp([5],{242:function(e,t,l){e.exports=l(243)},243:function(e,t,l){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}Object.defineProperty(t,"__esModule",{value:!0});var o=l(15),r=n(o),u=l(6),a=n(u),f=l(1),i=n(f),d=l(2),c=n(d),s=l(7),y=n(s),p=l(8),S=n(p),_=l(0),h=n(_),m=l(54),x=(n(m),l(121)),b=(n(x),l(127)),g=n(b),v=l(129),C=n(v),L=function(e){function t(e){return(0,i.default)(this,t),(0,y.default)(this,(t.__proto__||(0,a.default)(t)).call(this,e))}return(0,S.default)(t,e),(0,c.default)(t,[{key:"render",value:function(){var e={hintStyle:{color:"gray"},floatingLabelStyle:{color:"#e488ef"},floatingLabelFocusStyle:{color:"#e488ef"},underlineStyle:{color:"#fff"},underlineFocusStyle:{borderColor:"#e488ef"},inputStyle:{color:"#fff"},textareaStyle:{color:"#fff"},style:{marginTop:"10px"}};return h.default.createElement(C.default,null,h.default.createElement(g.default,(0,r.default)({hintText:"Please enter your name",floatingLabelText:"Name",fullWidth:!0,value:"text"},e,{onChange:function(){},prepareStyles:"",id:"test",require:!0})))}}]),t}(_.Component);t.default=L}},[242]);
+            return { page: comp.default }
+          })
+        
